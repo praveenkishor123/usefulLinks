@@ -11,3 +11,23 @@ http://www.drdobbs.com/database/hadoop-writing-and-running-your-first-pr/2401531
 https://www.kaggle.com/forums/f/15/kaggle-forum/t/9452/advice-on-learning-deep-learning-neural-networks  -  Deep Learning resources
 
 http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html
+
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial
+
+http://www.quora.com/What-are-some-of-the-best-online-courses-for-big-data
+
+http://deeplearning4j.org/sentiment_analysis_word2vec.html  -  Deep Learning for Java
+
+http://www.datacommunitydc.org/blog/2014/05/deep-learning-courses/
+
+http://www.quora.com/What-are-some-beginner-Deep-Learning-project-ideas
+
+http://deeplearning.net/tutorial/
+
+https://github.com/jatinshah/ufldl_tutorial
+
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-what-is-emr.html
+
+https://class.coursera.org/datasci-002/wiki/awssetup
