@@ -31,3 +31,5 @@ https://github.com/jatinshah/ufldl_tutorial
 http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-what-is-emr.html
 
 https://class.coursera.org/datasci-002/wiki/awssetup
+
+http://blog.bigml.com/2013/07/01/you-dont-need-coursera-to-get-started-with-machine-learning/
