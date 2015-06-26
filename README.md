@@ -33,3 +33,5 @@ http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-what-is-em
 https://class.coursera.org/datasci-002/wiki/awssetup
 
 http://blog.bigml.com/2013/07/01/you-dont-need-coursera-to-get-started-with-machine-learning/
+
+http://courses.cs.washington.edu/courses/cse490h/09wi/projects/490H.project.ideas.pdf
