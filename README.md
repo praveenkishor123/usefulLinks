@@ -37,3 +37,5 @@ http://blog.bigml.com/2013/07/01/you-dont-need-coursera-to-get-started-with-mach
 http://courses.cs.washington.edu/courses/cse490h/09wi/projects/490H.project.ideas.pdf
 
 http://atbrox.com/2011/11/09/mapreduce-hadoop-algorithms-in-academic-papers-5th-update-%E2%80%93-nov-2011/
+
+http://blog.revolutionanalytics.com/applications/page/5/
