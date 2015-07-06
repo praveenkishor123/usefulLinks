@@ -43,3 +43,5 @@ http://blog.revolutionanalytics.com/applications/page/5/
 http://sentiment.christopherpotts.net/
 
 http://courses.cs.washington.edu/courses/cse490h/09wi/projects/490H.project.ideas.pdf - Hadoop Project Ideas
+
+http://courses.cs.washington.edu/courses/cse490h/08au/video.htm
