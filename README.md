@@ -41,3 +41,5 @@ http://atbrox.com/2011/11/09/mapreduce-hadoop-algorithms-in-academic-papers-5th-
 http://blog.revolutionanalytics.com/applications/page/5/
 
 http://sentiment.christopherpotts.net/
+
+http://courses.cs.washington.edu/courses/cse490h/09wi/projects/490H.project.ideas.pdf - Hadoop Project Ideas
