@@ -56,3 +56,4 @@ http://fastml.com/machine-learning-courses-online/
 
 http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
 
+http://cs224d.stanford.edu/syllabus.html
