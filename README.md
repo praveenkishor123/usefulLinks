@@ -51,3 +51,8 @@ http://stackoverflow.com/questions/6385888/what-are-some-good-resources-for-stud
 http://cs109.github.io/2014/
 
 http://dcal.iimb.ernet.in/
+
+http://fastml.com/machine-learning-courses-online/
+
+http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
+
