@@ -57,3 +57,11 @@ http://fastml.com/machine-learning-courses-online/
 http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
 
 http://cs224d.stanford.edu/syllabus.html
+
+http://mlwave.com/a-clustered-google-maps-of-dutch-traffic-accidents/
+
+http://fastml.com/yesterday-a-kaggler-today-a-kaggle-master-a-wrap-up-of-the-cats-and-dogs-competition/
+
+http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
+
+http://techbus.safaribooksonline.com/9781491914106
