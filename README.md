@@ -69,3 +69,5 @@ http://techbus.safaribooksonline.com/9781491914106
 http://aksi-neural-network.appspot.com/
 
 http://www.heatonresearch.com/encog
+
+http://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi
