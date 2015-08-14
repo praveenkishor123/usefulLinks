@@ -67,3 +67,5 @@ http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-n
 http://techbus.safaribooksonline.com/9781491914106
 
 http://aksi-neural-network.appspot.com/
+
+http://www.heatonresearch.com/encog
