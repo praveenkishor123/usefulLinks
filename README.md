@@ -65,3 +65,5 @@ http://fastml.com/yesterday-a-kaggler-today-a-kaggle-master-a-wrap-up-of-the-cat
 http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
 
 http://techbus.safaribooksonline.com/9781491914106
+
+http://aksi-neural-network.appspot.com/
